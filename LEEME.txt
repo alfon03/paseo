@@ -1,0 +1,6 @@
+BAR PASEO · V7
+
+Abrir index.html o subir todo el contenido de esta carpeta al directorio público del alojamiento web.
+Estructura: index.html, css/styles.css, js/main.js, assets/.
+Sin dependencias externas de JavaScript. QR: https://barpaseo.es
+Antes de publicar: confirmar dominio HTTPS, carta, precios, horarios, permisos de fotos y reseñas, datos legales del titular y privacidad. WhatsApp no activado hasta confirmar que el número lo admite. El indicador de apertura usa los horarios orientativos aportados y zona Europe/Madrid.
